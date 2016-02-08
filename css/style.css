@@ -873,7 +873,7 @@
 		height: 4.75em;
 		line-height: 4.75em;
 		width: 100%;
-		z-index: 10000;
+		z-index: 500;
 	}
 
 		#header h1 {
